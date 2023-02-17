@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.Form1.resources
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.Properties.Resources.resources
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.exe.config
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.exe
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.pdb
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.exe
+D:\CSDL\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_sv\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_sv.pdb
