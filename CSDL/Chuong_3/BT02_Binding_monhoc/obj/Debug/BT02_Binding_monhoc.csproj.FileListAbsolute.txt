@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\bin\Debug\BT02_Binding_monhoc.exe.config
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\bin\Debug\BT02_Binding_monhoc.exe
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\bin\Debug\BT02_Binding_monhoc.pdb
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.Form1.resources
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.Properties.Resources.resources
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.exe
+D:\CSDL\Chuong_3\BT02_Binding_monhoc\obj\Debug\BT02_Binding_monhoc.pdb

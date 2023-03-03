@@ -124,16 +124,16 @@ namespace BT01_Mo_hinh_ngat_ket_noi_sv
 
         private void btntruoc_Click(object sender, EventArgs e)
         {
-            if(stt == ds.Tables["SINHVIEN"].Rows.Count - 1)
+            if(stt == 0)
             {
-                stt = 0;
+                stt = ds.Tables["SINHVIEN"].Rows.Count - 1;
                 GanDuLieu(stt);
                 return;
 
             }
            else
             {
-                stt++;
+                stt--;
                 GanDuLieu(stt);
             }
         }
@@ -148,7 +148,7 @@ namespace BT01_Mo_hinh_ngat_ket_noi_sv
             }
             else
             {
-                stt--;
+                stt++;
                 GanDuLieu(stt);
             }
         }

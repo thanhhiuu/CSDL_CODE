@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\bin\Debug\BT03_Binding_monhoc_Pre.exe.config
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\bin\Debug\BT03_Binding_monhoc_Pre.exe
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\bin\Debug\BT03_Binding_monhoc_Pre.pdb
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.Form1.resources
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.Properties.Resources.resources
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.exe
+D:\CSDL\Chuong_3\BT03_Binding_monhoc_Pre\obj\Debug\BT03_Binding_monhoc_Pre.pdb

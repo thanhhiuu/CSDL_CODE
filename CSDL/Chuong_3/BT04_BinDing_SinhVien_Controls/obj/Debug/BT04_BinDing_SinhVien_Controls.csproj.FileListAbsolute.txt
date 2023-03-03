@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\bin\Debug\BT04_BinDing_SinhVien_Controls.exe.config
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\bin\Debug\BT04_BinDing_SinhVien_Controls.exe
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\bin\Debug\BT04_BinDing_SinhVien_Controls.pdb
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.Form1.resources
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.Properties.Resources.resources
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.exe
+D:\CSDL\Chuong_3\BT04_BinDing_SinhVien_Controls\obj\Debug\BT04_BinDing_SinhVien_Controls.pdb
