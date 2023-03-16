@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\Luoi_DataGirdView\bin\Debug\Luoi_DataGirdView.exe.config
+D:\CSDL\Chuong_3\Luoi_DataGirdView\bin\Debug\Luoi_DataGirdView.exe
+D:\CSDL\Chuong_3\Luoi_DataGirdView\bin\Debug\Luoi_DataGirdView.pdb
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.Form1.resources
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.Properties.Resources.resources
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.exe
+D:\CSDL\Chuong_3\Luoi_DataGirdView\obj\Debug\Luoi_DataGirdView.pdb

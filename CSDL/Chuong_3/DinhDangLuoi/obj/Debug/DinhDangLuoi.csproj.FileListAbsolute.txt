@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\DinhDangLuoi\bin\Debug\DinhDangLuoi.exe.config
+D:\CSDL\Chuong_3\DinhDangLuoi\bin\Debug\DinhDangLuoi.exe
+D:\CSDL\Chuong_3\DinhDangLuoi\bin\Debug\DinhDangLuoi.pdb
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.Form1.resources
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.Properties.Resources.resources
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.exe
+D:\CSDL\Chuong_3\DinhDangLuoi\obj\Debug\DinhDangLuoi.pdb

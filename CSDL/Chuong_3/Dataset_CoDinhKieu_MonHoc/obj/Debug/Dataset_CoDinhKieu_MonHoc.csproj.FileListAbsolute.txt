@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\bin\Debug\Dataset_CoDinhKieu_MonHoc.exe.config
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\bin\Debug\Dataset_CoDinhKieu_MonHoc.exe
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\bin\Debug\Dataset_CoDinhKieu_MonHoc.pdb
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.Form1.resources
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.Properties.Resources.resources
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.exe
+D:\CSDL\Chuong_3\Dataset_CoDinhKieu_MonHoc\obj\Debug\Dataset_CoDinhKieu_MonHoc.pdb

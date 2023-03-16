@@ -1,0 +1,11 @@
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.csproj.AssemblyReference.cache
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.Form1.resources
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.Properties.Resources.resources
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.csproj.GenerateResource.cache
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.csproj.CoreCompileInputs.cache
+D:\CSDL\Luyen_tap\bin\Debug\Luyen_tap.exe.config
+D:\CSDL\Luyen_tap\bin\Debug\Luyen_tap.exe
+D:\CSDL\Luyen_tap\bin\Debug\Luyen_tap.pdb
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.exe
+D:\CSDL\Luyen_tap\obj\Debug\Luyen_tap.pdb

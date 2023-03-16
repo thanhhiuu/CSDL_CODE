@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\DataGridView_02\bin\Debug\DataGridView_02.exe.config
+D:\CSDL\Chuong_3\DataGridView_02\bin\Debug\DataGridView_02.exe
+D:\CSDL\Chuong_3\DataGridView_02\bin\Debug\DataGridView_02.pdb
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.Form1.resources
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.Properties.Resources.resources
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.exe
+D:\CSDL\Chuong_3\DataGridView_02\obj\Debug\DataGridView_02.pdb

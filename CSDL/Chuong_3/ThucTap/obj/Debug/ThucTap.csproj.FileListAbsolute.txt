@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\ThucTap\bin\Debug\ThucTap.exe.config
+D:\CSDL\Chuong_3\ThucTap\bin\Debug\ThucTap.exe
+D:\CSDL\Chuong_3\ThucTap\bin\Debug\ThucTap.pdb
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.Form1.resources
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.Properties.Resources.resources
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.exe
+D:\CSDL\Chuong_3\ThucTap\obj\Debug\ThucTap.pdb

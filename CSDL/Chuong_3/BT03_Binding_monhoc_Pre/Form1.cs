@@ -190,6 +190,10 @@ namespace BT03_Binding_monhoc_Pre
             txtmamh.Focus();
         }
 
+        private void bindingNavigatorMovePreviousItem_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void Khoi_tao_du_lieu()
         {

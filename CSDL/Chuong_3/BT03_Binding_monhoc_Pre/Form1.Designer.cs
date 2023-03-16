@@ -321,6 +321,7 @@
             this.bindingNavigatorMovePreviousItem.RightToLeftAutoMirrorImage = true;
             this.bindingNavigatorMovePreviousItem.Size = new System.Drawing.Size(29, 24);
             this.bindingNavigatorMovePreviousItem.Text = "Move previous";
+            this.bindingNavigatorMovePreviousItem.Click += new System.EventHandler(this.bindingNavigatorMovePreviousItem_Click);
             // 
             // bindingNavigatorSeparator
             // 

@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\bin\Debug\BinDing_SinhVien_Phai.exe.config
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\bin\Debug\BinDing_SinhVien_Phai.exe
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\bin\Debug\BinDing_SinhVien_Phai.pdb
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.Form1.resources
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.Properties.Resources.resources
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.exe
+D:\CSDL\Chuong_3\BinDing_SinhVien_Phai\obj\Debug\BinDing_SinhVien_Phai.pdb
