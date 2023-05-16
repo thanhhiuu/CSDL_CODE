@@ -1,0 +1,11 @@
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\bin\Debug\01_Nguyen_Thanh_Hieu_0X.exe.config
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\bin\Debug\01_Nguyen_Thanh_Hieu_0X.exe
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\bin\Debug\01_Nguyen_Thanh_Hieu_0X.pdb
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.csproj.AssemblyReference.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\_01_Nguyen_Thanh_Hieu_0X.Form1.resources
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\_01_Nguyen_Thanh_Hieu_0X.Properties.Resources.resources
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.csproj.GenerateResource.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.csproj.CoreCompileInputs.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.exe
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X\obj\Debug\01_Nguyen_Thanh_Hieu_0X.pdb

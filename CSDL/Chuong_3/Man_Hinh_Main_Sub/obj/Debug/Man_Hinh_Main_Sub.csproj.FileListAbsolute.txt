@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\bin\Debug\Man_Hinh_Main_Sub.exe.config
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\bin\Debug\Man_Hinh_Main_Sub.exe
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\bin\Debug\Man_Hinh_Main_Sub.pdb
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.Form1.resources
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.Properties.Resources.resources
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.exe
+D:\CSDL\Chuong_3\Man_Hinh_Main_Sub\obj\Debug\Man_Hinh_Main_Sub.pdb

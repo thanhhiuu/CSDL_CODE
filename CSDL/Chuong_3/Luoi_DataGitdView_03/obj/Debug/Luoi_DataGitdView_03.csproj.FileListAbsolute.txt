@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\bin\Debug\Luoi_DataGitdView_03.exe.config
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\bin\Debug\Luoi_DataGitdView_03.exe
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\bin\Debug\Luoi_DataGitdView_03.pdb
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.Form1.resources
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.Properties.Resources.resources
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.exe
+D:\CSDL\Chuong_3\Luoi_DataGitdView_03\obj\Debug\Luoi_DataGitdView_03.pdb

@@ -1,0 +1,11 @@
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\bin\Debug\Luoi_DataGridView_CSDL.exe.config
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\bin\Debug\Luoi_DataGridView_CSDL.exe
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\bin\Debug\Luoi_DataGridView_CSDL.pdb
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.csproj.AssemblyReference.cache
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.Form1.resources
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.Properties.Resources.resources
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.csproj.GenerateResource.cache
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.csproj.CoreCompileInputs.cache
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.exe
+D:\CSDL\Chuong_3\Luoi_DataGridView_CSDL\obj\Debug\Luoi_DataGridView_CSDL.pdb

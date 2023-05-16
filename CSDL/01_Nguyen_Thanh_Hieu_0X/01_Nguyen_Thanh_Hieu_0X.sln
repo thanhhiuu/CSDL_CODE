@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Nguyen_Thanh_Hieu_0X", "01_Nguyen_Thanh_Hieu_0X\01_Nguyen_Thanh_Hieu_0X.csproj", "{07D00933-24A2-4BBE-BD27-C583E312B98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTapOnThi", "LuyenTapOnThi\LuyenTapOnThi.csproj", "{452AFDB2-8A18-4816-A896-CADC7B3886E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D00933-24A2-4BBE-BD27-C583E312B98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D00933-24A2-4BBE-BD27-C583E312B98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D00933-24A2-4BBE-BD27-C583E312B98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D00933-24A2-4BBE-BD27-C583E312B98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452AFDB2-8A18-4816-A896-CADC7B3886E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452AFDB2-8A18-4816-A896-CADC7B3886E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452AFDB2-8A18-4816-A896-CADC7B3886E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452AFDB2-8A18-4816-A896-CADC7B3886E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FC0C03-A147-4314-AC53-EF0EF584C47E}
+	EndGlobalSection
+EndGlobal

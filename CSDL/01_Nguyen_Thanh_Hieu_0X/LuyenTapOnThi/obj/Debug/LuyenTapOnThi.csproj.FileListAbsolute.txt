@@ -1,0 +1,11 @@
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\bin\Debug\LuyenTapOnThi.exe.config
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\bin\Debug\LuyenTapOnThi.exe
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\bin\Debug\LuyenTapOnThi.pdb
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.csproj.AssemblyReference.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.Form1.resources
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.Properties.Resources.resources
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.csproj.GenerateResource.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.csproj.CoreCompileInputs.cache
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.exe
+D:\CSDL\01_Nguyen_Thanh_Hieu_0X\LuyenTapOnThi\obj\Debug\LuyenTapOnThi.pdb

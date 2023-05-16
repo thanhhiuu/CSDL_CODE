@@ -192,6 +192,10 @@ namespace ThucTap
             Close();
         }
 
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void Khoi_tao_combobox()
         {

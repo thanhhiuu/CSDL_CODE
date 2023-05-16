@@ -283,6 +283,7 @@
             this.label8.TabIndex = 129;
             this.label8.Text = "DANH SÁCH SINH VIÊN";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // lblSTT
             // 

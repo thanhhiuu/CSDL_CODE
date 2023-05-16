@@ -1,0 +1,11 @@
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.csproj.AssemblyReference.cache
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.Form1.resources
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.Properties.Resources.resources
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.csproj.GenerateResource.cache
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.csproj.CoreCompileInputs.cache
+D:\CSDL\ThucHanh\bin\Debug\ThucHanh.exe.config
+D:\CSDL\ThucHanh\bin\Debug\ThucHanh.exe
+D:\CSDL\ThucHanh\bin\Debug\ThucHanh.pdb
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.exe
+D:\CSDL\ThucHanh\obj\Debug\ThucHanh.pdb

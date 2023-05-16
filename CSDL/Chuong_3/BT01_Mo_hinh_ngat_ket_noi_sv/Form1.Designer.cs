@@ -275,7 +275,8 @@
             this.label8.Size = new System.Drawing.Size(864, 79);
             this.label8.TabIndex = 55;
             this.label8.Text = "DANH SÁCH SINH VIÊN";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;            // 
+            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // lblSTT
             // 
             this.lblSTT.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
